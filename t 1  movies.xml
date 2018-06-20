@@ -131,3 +131,17 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
+
+<dir>
+        <title>my Movies</title>
+        <tmdb>list/80413</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Tw Movies</title>
+        <tmdb>list/80137</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
